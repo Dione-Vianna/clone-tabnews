@@ -1,0 +1,26 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do https://www.tabnews.com.br para o https://curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dione-Vianna/clone-tabnews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dione-Vianna/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/Dione-Vianna/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^16.0.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
